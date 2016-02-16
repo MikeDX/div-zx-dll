@@ -3,9 +3,9 @@
 #include <stdio.h>
 //#include <mem.h>
 
-#include "spectrum/libscrplus.h"
-#include "spectrum/bits.h"
-#include "../src/shared/lib/sdlgfx/SDL_rotozoom.h"
+#include "libscrplus.h"
+#include "bits.h"
+#include "SDL_rotozoom.h"
 
 #define GLOBALS
 #include "div.h"
